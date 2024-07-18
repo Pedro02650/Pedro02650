@@ -8,8 +8,8 @@ I feel like a professional with ease in teamwork, communicative, detail-oriented
 
  <div>
   <a href="https://github.com/Pedro02650">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedro02650&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro02650&layout=compact&langs_count=16&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedro02650&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro02650&layout=compact&langs_count=16&theme=dark"/>
  </div>
  
   ## Programming Language
