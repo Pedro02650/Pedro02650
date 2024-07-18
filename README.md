@@ -6,11 +6,11 @@
 Passionate about technology and innovation, in order to obtain and absorb more and more knowledge.
 I feel like a professional with ease in teamwork, communicative, detail-oriented, organized, focused on results, hands-on profile, always ensuring software quality, applying concepts from the shift left testing culture within the SDLC process.
 
-
- <div>
-  <a href="https://github.com/Pedro02650">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedro02650&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro02650&layout=compact&langs_count=16&theme=dark"/>
- </div>
+<div align="center">
+  <a href="https://github.com/Pedro02650"> 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedro02650&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedro02650&layout=compact&langs_count=7&theme=dark"/>
+</div>
  
 
   ## Programming Language
